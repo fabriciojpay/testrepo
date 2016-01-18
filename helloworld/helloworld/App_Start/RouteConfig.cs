@@ -9,6 +9,7 @@ namespace helloworld
 {
     public class RouteConfig
     {
+        // tests
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
